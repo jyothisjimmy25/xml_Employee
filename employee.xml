@@ -1,0 +1,50 @@
+<employees>
+  <employee id="1">
+    <personalInformation>
+      <firstName>John</firstName>
+      <lastName>Mohan</lastName>
+      <dateOfBirth>1990-05-15</dateOfBirth>
+      <gender>Male</gender>
+    </personalInformation>
+    <employmentInformation>
+      <position>Software Engineer</position>
+      <salary>80000</salary>
+    </employmentInformation>
+    <contactInformation>
+      <email>johnmohan@gmail.com</email>
+      <phoneNumber>8334567890</phoneNumber>
+    </contactInformation>
+  </employee>
+  <employee id="2">
+     <personalInformation>
+      <firstName>Joseph</firstName>
+      <lastName>Doe</lastName>
+      <dateOfBirth>1996-01-15</dateOfBirth>
+      <gender>Male</gender>
+    </personalInformation>
+    <employmentInformation>
+      <position>Cloud Engineer</position>
+      <salary>180000</salary>
+    </employmentInformation>
+    <contactInformation>
+      <email>josephdoe@gmail.com</email>
+      <phoneNumber>8964257842</phoneNumber>
+    </contactInformation>
+  </employee>
+  <employee id="3">
+    <personalInformation>
+      <firstName>Cathy</firstName>
+      <lastName>Domanic</lastName>
+      <dateOfBirth>1997-08-10</dateOfBirth>
+      <gender>Female</gender>
+    </personalInformation>
+    <employmentInformation>
+      <position>System Engineer</position>
+      <salary>80000</salary>
+    </employmentInformation>
+    <contactInformation>
+      <email>cathydomanic@gmail.com</email>
+      <phoneNumber>9756424579</phoneNumber>
+    </contactInformation>
+  </employee>
+</employees>
